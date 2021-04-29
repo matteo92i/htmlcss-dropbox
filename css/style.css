@@ -90,6 +90,45 @@ h1{
 .margine{
     margin-top: 20px;
 }
+.box{
+    width: 30%;
+    height: 700px;
+    border: 1px solid black;
+    
+    margin-right: 3%;
+
+}
+
+.titolo{
+    line-height: 35px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.marginiBox{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.button1{
+    width: 100px;
+    height: 30px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+}
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
