@@ -10,6 +10,7 @@
 .clearfix::after{
     content: "";
     display: table;
+    clear: both;
 }
 .floatL{
     float: left;
@@ -57,18 +58,42 @@ li{
 .vh1{
     height: 100vh;
 }
-p{
+h1{
+    font-size: 60px;
+    margin-top: 20px;
+}
+.dimensione{
     width: 35%;
     height: 40%;
+    margin-top: 120px;
+    
 }
-
+.button{
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 40px;
+    line-height: 35px;
+    margin-top: 20px;
+}
 .jumbo{
+    float: left;
     width: 65%;
-    height: 600px;
+    height: 500px;
     background-size: cover;
     background-position: center;
-    margin-top: 200px;
+    margin-top: 120px;
+    
 }
+.margine{
+    margin-top: 20px;
+}
+
+
+
+
     
     
 
