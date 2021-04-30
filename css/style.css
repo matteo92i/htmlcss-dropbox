@@ -143,6 +143,9 @@ hr{
 .gray{
     color: gray;
 }
+span{
+    color: blue;
+}
 
 .button1{
     width: 200px;
@@ -164,8 +167,16 @@ hr{
     text-align: center;
     border-bottom: 1px solid black;
 }
+h3{
+    margin-top: 25px;
+    font-size: 40px;
+}
+.margini1{
+    margin-top: 15px;
+}
 .margini2{
     margin-right: 30px;
+    margin-top: 40px;
 }
 .top{
     margin-top: 45px;
@@ -176,31 +187,66 @@ hr{
 }
 .grandezzaT{
     width: 45%;
-    padding-top: 15%;
-
+    height: 400px;
+    margin-left: 100px;
+    margin-top:100px
 }
+h4{
+    font-size: 35px;
+}
+.prova2{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.button2{
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    line-height: 25px;
+    margin-top: 30px;
+}
+    
+    
+
+
+    
+
 .partner{
     background-size: cover;
     background-position: center;
-    margin-right: 10%;
+    
 }
 .top1{
     margin-top: 5px;
 }
 .dimensione{
     width: 32%;
-    
+    height: 600px;
 }
+.center{
+    text-align: center;
+}
+    
+    
 .dimensioneI{
     height: 200px;
-    width: 50%%;
+    width: 60%;
     background-size: cover;
     background-position:center;
 }
-.marginiI{
-    margin-left: 1%;
-    margin-right: 1%;
+    
+    
+.marginicentrale{
+    margin-left: 20px;
+    margin-right: 20px;
 }
+.prova{
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+
     
     
 
