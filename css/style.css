@@ -132,6 +132,23 @@ h1{
 .margini2{
     margin-right: 30px;
 }
+.top{
+    margin-top: 45px;
+}
+.grandezza{
+    width: 45%;
+    height: 95%;
+}
+.grandezzaT{
+    width: 45%;
+    padding-top: 15%;
+
+}
+.partner{
+    background-size: cover;
+    background-position: center;
+    margin-right: 10%;
+}
 
 
 
