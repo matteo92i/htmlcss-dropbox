@@ -97,28 +97,55 @@ h1{
     margin-top: 20px;
     font-size: 25px;
 }
+.texth2{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.pulsanti{
+    margin-bottom: 20px;
+}
+.inline{
+    display: inline-block;
+}
+
     
 .box{
     width: 32%;
     height: 700px;
     border: 1px solid black;
-    margin-left: 1%;
 }
-
-    
-
-
+hr{
+    width: 70px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.boxcentrale{
+    width: 32%;
+    height: 700px;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 .titolo{
     line-height: 35px;
     text-align: center;
     border-bottom: 1px solid black;
 }
 .marginiBox{
-    margin-left: 20%;
-    margin-top: 5%;
+    margin-left: 50px;
+    margin-top: 20px;
 }
+.marginititolo{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.gray{
+    color: gray;
+}
+
 .button1{
-    width: 100px;
+    width: 200px;
     height: 30px;
     border: 1px solid blue;
     background-color: blue;
@@ -174,6 +201,15 @@ h1{
     margin-left: 1%;
     margin-right: 1%;
 }
+    
+    
+
+
+    
+
+    
+
+
 
     
 
