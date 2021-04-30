@@ -150,14 +150,15 @@ h1{
     margin-right: 10%;
 }
 .top1{
-    margin-top: 20px;
+    margin-top: 5px;
 }
 .dimensione{
     width: 32%;
-    height: 50%;
+    
 }
 .dimensioneI{
-    height: 35%;
+    height: 200px;
+    width: 50%%;
     background-size: cover;
     background-position:center;
 }
