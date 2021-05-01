@@ -258,27 +258,60 @@ h4{
 }
 .blocco1{
     background-color: blue;
+    position: relative;
+}
+.img1{
+    width: 50%;
+    height: 50%;
+    background-size: cover;
+    background-position:center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.img2{
+    width: 40%;
+    height: 40%;
+    background-size: cover;
+    background-position:center;
+
 }
 .blocco2{
     background-color: green;
+    position: relative;
 }
 .blocco3{
     background-color: hotpink;
+    position: relative;
 }
 .blocco4{
     background-color: red;
+    position: relative;
 }
 .blocco5{
     background-color: yellow;
+    position: relative;
 }
 .blocco6{
     background-color: turquoise;
+    position: relative;
 }
 .blocco7{
     background-color: tomato;
+    position: relative;
 }
 .blocco8{
     background-color: gray;
+    position: relative;
+}
+.colorA{
+    background-color: teal;
+    height: 300px;
+}
+.colorB{
+    color: brown;
+    font-size: 40px;
 }
     
     
