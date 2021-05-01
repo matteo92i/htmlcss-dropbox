@@ -313,6 +313,13 @@ h4{
     color: brown;
     font-size: 40px;
 }
+.linea{
+    
+    border-bottom: 1px solid black;
+}
+.spazio{
+    margin-top: 90px;
+}
     
     
     
