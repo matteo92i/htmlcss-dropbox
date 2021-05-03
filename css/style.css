@@ -320,6 +320,26 @@ h4{
 .spazio{
     margin-top: 90px;
 }
+.nero{
+    background-color: black;
+    height: 800px;
+}
+.bianco{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 140px;
+    line-height: 500px;
+}
+.centro1{
+    text-align: center;
+}
+.bianco1{
+    color: white;
+    font-size: 15px;
+    margin-top: 30px;
+}
+    
     
     
     
